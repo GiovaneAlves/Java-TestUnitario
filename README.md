@@ -30,6 +30,3 @@
 
 ### __Passo a passo__
 ---
-1 - Criação do projeto Maven no ECLIPSE. Iniciando com a criação das classes para a primeira aplicação que será os dados de cadastro.
-
-2 - Foi criado duas classes, a classe validação terá como objetivo validar os dados inseridos, enquanto a classe principal receberá os dados.
