@@ -11,7 +11,10 @@ public class TestValidacao {
 		   // Teste com nome vazio
         assertThrows(RuntimeException.class, () -> Validacao.validarNome(""));
         
-        // Teste com nome não vazio
+          // Teste com nome com número ou caracter especial
+        assertThrows(RuntimeException.class, () -> Validacao.validarNome("123654"));
+        
+          // Teste com nome não vazio
         Validacao.validarNome("João");
     }
 	

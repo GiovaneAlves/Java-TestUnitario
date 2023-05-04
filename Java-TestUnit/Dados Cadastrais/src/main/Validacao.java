@@ -18,6 +18,10 @@ package com.Giovane.QA;
 		 
 			if (nome.trim().isEmpty()) 
 	         throw new RuntimeException("O nome não pode ser vazio.");
+			
+			if (!nome.matches("^[\\p{L}\\s]+$")) {
+			        throw new IllegalArgumentException("O nome não pode conter números ou caracteres especiais");
+			    }
 		}
 			
 				

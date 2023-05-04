@@ -48,6 +48,7 @@ public class ProgramaCadastro {
 		System.out.println(valido.toString());
 		
 		input.close ();
+		
 }
 }	
 	
