@@ -41,4 +41,4 @@
 - Cpf sendo aceito somente onde digitos, após o recebimento corretamente desse dado ele foi tratado para que fosse imprimido conforme o padrão de CPF.
 - Idade somente aceita de 0 à 120 anos.
 
-5 - Foram efetuados testes pelo Junit onde foi posível obter 63,6% de Coverage em toda aplicação, onde tivemos todos os métodos da classe Validacao cobertas, chegando a 88% de cobertura. 
+5 - Foram efetuados testes pelo Junit onde foi posível obter 63,6% de Coverage em toda aplicação, onde todos os métodos da classe Validacao cobertas, chegando a 88% de cobertura. 
