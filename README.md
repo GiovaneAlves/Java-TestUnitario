@@ -37,8 +37,8 @@
 3 - Foi utilizados os operadores try e catch para está auxiliando no tratamento de todas às exceções. 
 
 4 - Foram criados métodos onde fosse possível ajustar os dados da maneira devida: 
-- Nome não podendo ser vazio, e todas às letras maiusculas para melhor padronização.
+- Nome não podendo ser vazio, números ou caracter especial, e todas às letras maiúsculas para melhor padronização.
 - Cpf sendo aceito somente onde digitos, após o recebimento corretamente desse dado ele foi tratado para que fosse imprimido conforme o padrão de CPF.
 - Idade somente aceita de 0 à 120 anos.
 
-5 - Foram efetuados testes pelo Junit onde foi posível obter 63,6% de Coverage em toda aplicação, onde todos os métodos da classe Validacao cobertas, chegando a 88% de cobertura. 
+5 - Foram efetuados testes pelo Junit onde foi posível obter 64,4% de Coverage em toda aplicação, onde todos os métodos da classe Validacao cobertas, chegando a 86% de cobertura. 
