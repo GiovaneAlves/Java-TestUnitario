@@ -32,4 +32,13 @@
 ---
 1 - Criação do projeto Maven no ECLIPSE. Iniciando com a criação das classes para a primeira aplicação que será os dados de cadastro.
 
-2 - Foi criado duas classes, a classe validação terá como objetivo validar os dados inseridos, enquanto a classe principal receberá os dados.
+2 - Foi criado duas classes, a classe validação terá como objetivo validar os dados inseridos, enquanto a classe principal receberá esses dados já cadastrados.
+
+3 - Foi utilizados os operadores try e catch para está auxiliando no tratamento de todas às exceções. 
+
+4 - Foram criados métodos onde fosse possível ajustar os dados da maneira devida: 
+- Nome não podendo ser vazio, e todas às letras maiusculas para melhor padronização.
+- Cpf sendo aceito somente onde digitos, após o recebimento corretamente desse dado ele foi tratado para que fosse imprimido conforme o padrão de CPF.
+- Idade somente aceita de 0 à 120 anos.
+
+5 - Foram efetuados testes pelo Junit onde foi posível obter 63,6% de Coverage em toda aplicação, onde tivemos todos os métodos da classe Validacao cobertas, chegando a 88% de cobertura. 
