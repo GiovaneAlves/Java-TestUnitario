@@ -1,4 +1,4 @@
-package com.Giovane.QA;
+package QA.DadosCadastrais;
 import java.util.Scanner;
 
 

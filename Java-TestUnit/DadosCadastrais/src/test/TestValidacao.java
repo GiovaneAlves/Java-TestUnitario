@@ -1,8 +1,9 @@
-package com.Giovane.QA;
+package QA.DadosCadastrais;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
 
 public class TestValidacao {
 
