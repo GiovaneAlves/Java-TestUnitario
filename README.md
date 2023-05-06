@@ -32,7 +32,7 @@
 ---
 1 - Criação do projeto Maven no ECLIPSE. Iniciando com a criação das classes para a primeira aplicação que será os dados de cadastro.
 
-2 - Foi criado duas classes, a classe validação terá como objetivo validar os dados inseridos, enquanto a classe principal receberá esses dados já tratados.
+2 - Para a primeira aplicação, foram criadas duas classes, a classe validação terá como objetivo validar os dados inseridos, enquanto a classe principal receberá esses dados já tratados.
 
 3 - Foi utilizados os operadores try e catch para está auxiliando no tratamento de todas às exceções. 
 
