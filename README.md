@@ -42,3 +42,9 @@
 - Idade somente aceita de 0 à 120 anos.
 
 5 - Foram efetuados testes pelo Junit onde foi posível obter 64,4% de Coverage em toda aplicação, onde todos os métodos da classe Validacao cobertas, chegando a 86% de cobertura. 
+
+6 - A segunda aplicação foi feita uma média aritimética com dois números. Foram testes unitários para cobrir a aplicação.
+
+7 - A terceira foi feito um programa que retorne o valor do produto com acréscimo de 10%. Foi feito um tratamento para que o usúario não digite um valor menor que zero. Também foram testes unitários para cobrir a aplicação.
+
+8 - A quarta foi feita uma aplicação que converta graus Farehnheit em graus Celsius. Foram feitos testes sobre todos os métodos da classe.
