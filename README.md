@@ -20,7 +20,8 @@ apresente na tela o valor do produto acrescido de 10% de seu valor original.
 ~~~
 ~~~
 4. Escreva um algoritmo que leia uma temperatura fornecida pelo usuário a partir do  
-teclado em graus Fahrenheit e a converta para o seu equivalente em graus centígrados. OBS.: °C = (°F − 32) / 1,8)
+teclado em graus Fahrenheit e a converta para o seu equivalente em graus centígrados. 
+OBS.: °C = (°F − 32) / 1,8)
 ~~~
 ### __Ferramentas utilizadas:__
 ---
